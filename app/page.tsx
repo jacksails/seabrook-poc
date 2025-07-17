@@ -72,7 +72,7 @@ export default function HomePage() {
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Upload your stomach rumble and discover your perfect Seabrook crisp flavour! 
-            Britain's original crinkle cut meets advanced audio analysis.
+            Britain&apos;s original crinkle cut meets advanced audio analysis.
           </p>
           <p className="text-lg text-muted-foreground/80 mt-2 font-medium">
             ✨ Brilliant by the bagful ✨
@@ -203,7 +203,7 @@ export default function HomePage() {
             <span className="font-medium">IMA</span>
           </p>
           <p className="mt-2">
-            Web Audio API + The UK's original crinkle cut = Brilliant by the bagful! 🚀
+            Web Audio API + The UK&apos;s original crinkle cut = Brilliant by the bagful! 🚀
           </p>
         </motion.footer>
       </div>
