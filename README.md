@@ -119,3 +119,5 @@ seabrook-poc/
 ---
 
 **Built with**: Next.js 14, TypeScript, Tailwind CSS, Web Audio API, and a sense of humor! 🚀 
+
+*Deployment: Optimized for Vercel with ESLint validation*
